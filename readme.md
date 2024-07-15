@@ -3,11 +3,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.:660610754
 
-ชื่อ-สกุล :
+ชื่อ-สกุล :ณัฐชยา ปาลี
 
-GitHub Page URL :
+GitHub Page URL :https://cpe207-students-167.github.io/lab07-eyenatchaya/
 
 ---
 
